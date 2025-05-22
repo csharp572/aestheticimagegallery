@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body{
+  padding: 25px;
+}
+h1{
+  font-family: Poppins;
+  color: #00ABE7;
+}
+h2{
+  font-family: Poppins;
+  color: #CA7DF9;
+  font-size: 20px;
+}
+img{
+  height: 200px;
+  padding: 5px;
+  border-radius: 20px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+footer{
+  color: #fafa8a;
+}
+footer, p{
+  color: black;
+  font-family: Poppins;
+}
