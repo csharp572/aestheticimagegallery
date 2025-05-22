@@ -13,7 +13,7 @@ h2{
   font-size: 20px;
 }
 img{
-  height: 200px;
+  height: 300px;
   padding: 5px;
   border-radius: 20px;
 }
@@ -22,7 +22,7 @@ img{
   flex-wrap: wrap;
 }
 footer{
-  color: #fafa8a;
+  background-color: #fafa8a;
 }
 footer, p{
   color: black;
